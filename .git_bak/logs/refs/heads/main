@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 24321687140a14f1b08be5cf332592fa0184cc1f gt242 <greg@blueroof.com> 1756876036 -0600	clone: from https://github.com/gt242/Toolkicker-.git
+24321687140a14f1b08be5cf332592fa0184cc1f 06811b5b1fa2ba72766e8c2e04ed97aa6255b220 gt242 <greg@blueroof.com> 1756880491 -0600	commit: First screen: Welcome + tool list
+06811b5b1fa2ba72766e8c2e04ed97aa6255b220 f708d16915728756e58c6315aa46d6b247068ed0 gt242 <greg@blueroof.com> 1756880915 -0600	commit: Tidy folders (apps/mobile)
+f708d16915728756e58c6315aa46d6b247068ed0 63dfb6fda686ed3718320da41c9e1a7f1fa5947f gt242 <greg@blueroof.com> 1756881740 -0600	commit: apps/mobile/App.tsx
+63dfb6fda686ed3718320da41c9e1a7f1fa5947f f708d16915728756e58c6315aa46d6b247068ed0 gt242 <greg@blueroof.com> 1756881748 -0600	reset: moving to f708d16915728756e58c6315aa46d6b247068ed0
+f708d16915728756e58c6315aa46d6b247068ed0 30ee9cb17d2b9edc7dc93c9603ccc69377726d57 gt242 <greg@blueroof.com> 1756882854 -0600	commit: Remember tools using AsyncStorage
+30ee9cb17d2b9edc7dc93c9603ccc69377726d57 8ab163bc759207ded86ad15fc474d11033796355 gt242 <greg@blueroof.com> 1756883081 -0600	commit: Add photos to tools
+8ab163bc759207ded86ad15fc474d11033796355 613b8dcabde1e67583e3ef3a500f89c9ba4dd23c gt242 <greg@blueroof.com> 1756884522 -0600	commit: Validate price + limit photo size
+613b8dcabde1e67583e3ef3a500f89c9ba4dd23c 4bcdf9367c5c3389484983ce35d4f8dd395919a8 gt242 <greg@blueroof.com> 1756884802 -0600	commit: Add Take Photo + compress images
+4bcdf9367c5c3389484983ce35d4f8dd395919a8 655a13c9c6da63d05cf5fb2cd8643f6b587cbc79 gt242 <greg@blueroof.com> 1756884984 -0600	commit: Add favorites (star) + favorites-only filter
+655a13c9c6da63d05cf5fb2cd8643f6b587cbc79 f0d0afd9047801edda9e393ed34a47b90f996bfc gt242 <greg@blueroof.com> 1756886245 -0600	commit: UI Fixes- text boxes and page alignments
+f0d0afd9047801edda9e393ed34a47b90f996bfc 7c54770ff886923dc5e7c8a7e07ce29aabe83c30 gt242 <greg@blueroof.com> 1756886397 -0600	commit: Persist data across updates (permanent key + migration)
+7c54770ff886923dc5e7c8a7e07ce29aabe83c30 5020eeb96f497300c3673973c5ed725961767630 gt242 <greg@blueroof.com> 1756887017 -0600	commit: Add optional description field + show in list
+5020eeb96f497300c3673973c5ed725961767630 37d319a6289c538ca0daf98f0950f69bb4649e78 gt242 <greg@blueroof.com> 1757107406 -0600	commit: Update mobile app (fix build)
